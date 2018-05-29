@@ -1,2 +1,2 @@
 # NRSR2016
-visualisation
+visualisation of Slovak parlament elections with Shiny
